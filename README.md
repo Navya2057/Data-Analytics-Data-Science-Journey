@@ -17,21 +17,16 @@ This repository documents my complete roadmap from beginner to advanced. I use i
 
 - [ ] Microsoft Excel
 - [ ] SQL & DBMS
-- [ ] Python
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Data Structures & Algorithms (DSA)
-- [ ] NumPy
-- [ ] Pandas
+- [ ] Python & Object-Oriented Programming
+- [ ] NumPy & Pandas
 - [ ] APIs & Web Scraping
 - [ ] Data Cleaning
 - [ ] Feature Engineering
 - [ ] ETL
 - [ ] Big Data & NoSQL
 - [ ] Statistics & Probability
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Data Visualization
-- [ ] Power BI
-- [ ] Tableau
+- [ ] EDA & Data Visualization     
+- [ ] Power BI & Tableau
 - [ ] Data Warehousing
 - [ ] Cloud Basics
 - [ ] Machine Learning
@@ -45,9 +40,7 @@ This repository documents my complete roadmap from beginner to advanced. I use i
 - 00_Excel
 - 01_SQL_DBMS
 - 02_Python
-- 03_DSA
-- 04_NumPy
-- 05_Pandas
+- 03_NumPy_Pandas
 - 06_APIs_Web_Scraping
 - 07_Data_Cleaning
 - 08_Feature_Engineering
