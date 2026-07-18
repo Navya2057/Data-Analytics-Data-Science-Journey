@@ -1,5 +1,4 @@
 # 📊 Data Analytics & Data Science Journey
-# My learning journey 
 
 Welcome to my Data Analytics & Data Science learning journey.
 
