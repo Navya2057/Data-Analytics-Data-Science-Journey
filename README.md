@@ -1,16 +1,15 @@
-# 📊 Data Analytics & Data Science Journey
+# 📊 Data Analytics Journey
 
-Welcome to my Data Analytics & Data Science learning journey.
+Welcome to my Data Analytics learning journey.
 
 This repository documents my complete roadmap from beginner to advanced. I use it to track my learning, practice, notes, assignments, and hands-on work.
 
 ## 🎯 Goals
 
 - Build strong Data Analytics fundamentals
-- Master Data Science concepts
 - Solve real-world problems
 - Build industry-level projects
-- Become job-ready for Data Analyst/Data Scientist roles
+- Become job-ready for Data Analyst roles
 
 ## 🗺️ Learning Roadmap
 
@@ -26,13 +25,7 @@ This repository documents my complete roadmap from beginner to advanced. I use i
 - [ ] Statistics & Probability
 - [ ] EDA & Data Visualization     
 - [ ] Power BI & Tableau
-- [ ] Data Warehousing
-- [ ] Cloud Basics
-- [ ] Machine Learning
-- [ ] Time Series
-- [ ] Deep Learning
-- [ ] Natural Language Processing (NLP)
-- [ ] Model Deployment
+- [ ] Data Warehousing 
 
 ## 📁 Repository Structure
 
@@ -48,11 +41,6 @@ This repository documents my complete roadmap from beginner to advanced. I use i
 - 11_Statistics_Probability
 - 12_EDA_Visualization
 - 13_BI_Tools
-- 14_Data_Warehousing
-- 15_Cloud_Basics
-- 16_Machine_Learning
-- 17_Time_Series
-- 18_Deep_Learning_NLP
-- 19_Model_Deployment
+- 14_Data_Warehousing 
 
 ⭐ Projects will be maintained in separate repositories and linked here.
